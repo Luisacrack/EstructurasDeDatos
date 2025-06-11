@@ -1,0 +1,14 @@
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.AssemblyInfoInputs.cache
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.AssemblyInfo.cs
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\Downloads\EstructuresPokemonList\bin\Debug\net8.0\EstructuresPokemonList.exe
+C:\Users\Luisa\Downloads\EstructuresPokemonList\bin\Debug\net8.0\EstructuresPokemonList.deps.json
+C:\Users\Luisa\Downloads\EstructuresPokemonList\bin\Debug\net8.0\EstructuresPokemonList.runtimeconfig.json
+C:\Users\Luisa\Downloads\EstructuresPokemonList\bin\Debug\net8.0\EstructuresPokemonList.dll
+C:\Users\Luisa\Downloads\EstructuresPokemonList\bin\Debug\net8.0\EstructuresPokemonList.pdb
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.dll
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\refint\EstructuresPokemonList.dll
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.pdb
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\EstructuresPokemonList.genruntimeconfig.cache
+C:\Users\Luisa\Downloads\EstructuresPokemonList\obj\Debug\net8.0\ref\EstructuresPokemonList.dll
