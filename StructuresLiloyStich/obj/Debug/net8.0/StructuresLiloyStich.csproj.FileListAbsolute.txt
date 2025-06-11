@@ -1,0 +1,14 @@
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.AssemblyInfoInputs.cache
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.AssemblyInfo.cs
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\Downloads\StructuresLiloyStich\bin\Debug\net8.0\StructuresLiloyStich.exe
+C:\Users\Luisa\Downloads\StructuresLiloyStich\bin\Debug\net8.0\StructuresLiloyStich.deps.json
+C:\Users\Luisa\Downloads\StructuresLiloyStich\bin\Debug\net8.0\StructuresLiloyStich.runtimeconfig.json
+C:\Users\Luisa\Downloads\StructuresLiloyStich\bin\Debug\net8.0\StructuresLiloyStich.dll
+C:\Users\Luisa\Downloads\StructuresLiloyStich\bin\Debug\net8.0\StructuresLiloyStich.pdb
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.dll
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\refint\StructuresLiloyStich.dll
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.pdb
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\StructuresLiloyStich.genruntimeconfig.cache
+C:\Users\Luisa\Downloads\StructuresLiloyStich\obj\Debug\net8.0\ref\StructuresLiloyStich.dll
